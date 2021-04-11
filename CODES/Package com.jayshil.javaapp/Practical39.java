@@ -18,11 +18,6 @@ public class Practical39 extends Thread {
 		Practical39 t3 = new Practical39();
 		Practical39 t4 = new Practical39();
 		t1.start();
-		try {
-			sleep(10);
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
 		t2.start();
 		t3.start();
 		t4.start();
