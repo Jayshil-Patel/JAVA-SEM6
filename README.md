@@ -2,7 +2,7 @@
 >This repository consists of Java Practicals of Semester 6 of CHARUSAT UNIVERSITY
 >You can find pdf of code with questions answers and attached images of output
 >
->A separate Folder will contain all source code of all practicals
+>A separate [Folder](https://github.com/Jayshil-Patel/JAVA-SEM6/tree/main/CODES) will contain all source code of all practicals
 ## Contact Info
 >[![Whats app link](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918141487230)
 >[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayshil-patel-607819171/)
